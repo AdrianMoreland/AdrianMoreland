@@ -9,11 +9,11 @@ I’m passionate about technology and creativity, currently finding my path to c
 
 ### About Me: 
 
-🎶 Musician & Audio Engineer: These have always been my great passions, and probably what I have spent the most time in my life. After learning and playing since I was 14, I now aim to create a professional career that combines it with computers and coding. 
+🎶 Musician & Audio Engineer: These have always been my great passions, still ongoing since I was 14. I now aim to create a professional career that combines it with computers and coding. 
 
-🎶 Android Developer: Currently working on an audio-based quiz game eLearning app, leveraging concepts like MVVM, modular architecture, Firebase, and RoomDB. 
+🎶 Android Developer: Currently working on an audio-based quiz game eLearning app.
 
-🎶 Graphic Design: I’m also into designing graphic content with photoshop and Figma and like to create my own visual content for my coding projects whenever I can. I’m always excited to connect, collaborate, and learn from others in the tech and creative communities. Let’s build something amazing together!
+🎶 Graphic Design: I’m also into graphic design and like to create my own visual content for my coding projects whenever I can.
 
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [adrian.moreland.fernandez@gmail.com](mailto:adrian.moreland.fernandez@gmail.com)
